@@ -1,6 +1,7 @@
 ### Hi there 👋 my name is Increase Uwadiale
 
 I'm a Software Engineer at Semicolon Africa.
+
 Over the course of my training in Semicolon Africa I've:
 
 Learnt techniques of problem-solving through Design and Critical thinking.
